@@ -4,13 +4,13 @@
 
 ### How to run the code
 
-`git pull https://github.com/Alexvonrass/TA_assignment.git`
+`git clone https://github.com/Alexvonrass/TA_assignment.git`
 
 To clone my conda env, you can run 
 
 `conda env create -f ta_assignment.yml`
 
-in your local repository to ensure reproducibility, then run the code
+in your local environment to ensure reproducibility, then run the code
 
 `python train.py`
 
